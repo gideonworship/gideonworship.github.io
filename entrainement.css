@@ -1,0 +1,20 @@
+body {
+  background-color: grey;
+}
+em {
+  color: fuchsia;
+  font-style: normal;
+  font-weight: bolder;
+}
+h1.titre {
+  text-align: center;
+}
+li {
+  margin-left: 5px;
+}
+p.contenurendom {
+  font-family: fantasy;
+}
+img {
+  object-fit: cover;
+}
